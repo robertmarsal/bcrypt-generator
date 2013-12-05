@@ -1,0 +1,27 @@
+{
+    "name": "robertboloc/bcrypt-generator",
+    "type": "library",
+    "description": "Generate bcrypt hashes from the command line",
+    "keywords": [
+        "zf2",
+        "generator",
+        "bcrypt"
+    ],
+    "homepage": "https://github.com/robertboloc/https://github.com/robertboloc/bcrypt-generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Boloc",
+            "email": "robertboloc@gmail.com",
+            "homepage": "http://robertboloc.eu",
+            "role": "Developer"
+        }
+    ],
+    "bin": [
+        "bcrypt_generator.php"
+    ],
+    "require": {
+        "zendframework/zend-console": "2.*",
+        "zendframework/zend-crypt": "2.*"
+    }
+}
