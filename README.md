@@ -20,7 +20,7 @@ This will install the script into `vendor/bin/bcrypt_generator.php`
 
 Execute the CLI script providing some/all of the following options :
 
-**--help | -h** Get usage information.
+**--help | -h** Get usage information.  
 **--text | -t** Text to get hashed.
 
 For example calling the script using the `-t` option:
