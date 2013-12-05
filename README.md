@@ -1,6 +1,5 @@
-Generates a bcrypt hash for the specified text.
-
-Useful for computing bcrypt hashes while developing.
+Command line bcrypt hash generator. Useful for computing bcrypt hashes while
+developing.
 
 #### Installation
 
