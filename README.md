@@ -1,3 +1,5 @@
+# BcryptGenerator
+
 Command line bcrypt hash generator. Useful for computing bcrypt hashes while
 developing.
 
