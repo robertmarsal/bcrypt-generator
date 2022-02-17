@@ -1,5 +1,5 @@
 {
-    "name": "robertboloc/bcrypt-generator",
+    "name": "robertmarsal/bcrypt-generator",
     "type": "library",
     "description": "Generate bcrypt hashes from the command line",
     "keywords": [
