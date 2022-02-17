@@ -9,7 +9,7 @@ developing.
 ```json
     {
         "require-dev": {
-            "robertboloc/bcrypt-generator": "dev-master"
+            "robertmarsal/bcrypt-generator": "dev-master"
         }
     }
 ```
